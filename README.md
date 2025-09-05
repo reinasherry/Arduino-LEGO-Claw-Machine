@@ -54,12 +54,5 @@ Usage
 
 ⸻
 
-Demo (Optional)
 
-Include a GIF or photo of your claw machine in action here!
 
-⸻
-
-License
-
-This project is open-source. You can use and modify it freely.
